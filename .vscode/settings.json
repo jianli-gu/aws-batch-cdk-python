@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/jianli/.virtualenvs/dev/bin/python",
+    "editor.rulers": [100],
+    "editor.fontLigatures": false
+}
